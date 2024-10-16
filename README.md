@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dumbisitti
+- 👋 Hi, I’m uzm
 - 👀 I’m interested in UX design
-- 🌱 I’m currently learning react and typescript 
+- 🌱 I’m currently learning users behaviour on when they interact with e-commerce platform
 - 💞️ I’m looking to collaborate .
 - 📫 How to reach me ...
 
